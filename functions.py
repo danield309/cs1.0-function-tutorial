@@ -4,3 +4,7 @@ def area(width, height):
 
 result = area(5, 6)
 print(result)
+result2 = area(6, 7)
+print(result2)
+result3 = area(9, 10)
+print(result3)
